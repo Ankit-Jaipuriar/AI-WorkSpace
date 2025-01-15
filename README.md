@@ -55,25 +55,25 @@ AIWorkspace is a collaborative platform that enables users to create and manage 
 
 _The interfaces for registering new users._
 
-#### 5. Project Dashboard and Create Project
+#### 2. Project Dashboard and Create Project
 <img src="screenshots/projectdashboard.png" alt="Project Dashboard" width="300">
 <img src="screenshots/createproject.png" alt="Create Project" width="300">
 _The central hub where users can create and manage projects._
 
-#### 2. Project Page and Chat Section
+#### 3. Project Page and Chat Section
 <img src="screenshots/projectpage.png" alt="Project Page" width="300">
 <img src="screenshots/chatsection.png" alt="Chat Section" width="300">
 _Viewing the project details and team communication interface._
 
-#### 3. Member List and Add Collaborators
+#### 4. Member List and Add Collaborators
 <img src="screenshots/memberlist.png" alt="Member List" width="300">
 <img src="screenshots/addcollaborators.png" alt="Add Collaborators" width="300">
 _Managing project members and adding collaborators._
 
 
-#### 4. Run and Compilation
-<img src="screenshots/run.png" alt="Run" width="300">
+#### 5. Run and Compilation
 <img src="screenshots/compilation.png" alt="Compilation" width="300">
+<img src="screenshots/run.png" alt="Run" width="300">
 _Showcasing the process of running and compiling code._
 
 
